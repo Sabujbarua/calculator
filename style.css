@@ -1,0 +1,23 @@
+body {
+  width: 435px;
+  height: 320px;
+  border: solid skyblue;
+  padding: 10px;
+}
+
+#head {text-align: center;}
+#head:hover {color: red;}
+
+#firstnumber, #secondnumber {color: red;}
+
+#select:hover {color: skyblue;}
+
+#btn {
+  margin: 10px;
+}
+
+#output {
+  border: solid skyblue;
+  height: 40px;
+  width: 200px;
+}
